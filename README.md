@@ -1,6 +1,6 @@
 
 <center>
-<img src="./image/kiwi_strong.svg" width="200"/>
+  <img src="./image/kiwi_strong.svg" width="200"/>
 </center>
 
 <center>
