@@ -7,5 +7,3 @@
 </p>
 
 ![语言排行](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiwi233333&hide_progress=true)
-
-// [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwi233333)](https://github.com/Kiwi233333)
