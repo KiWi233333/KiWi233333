@@ -1,5 +1,5 @@
 <p align="center">
-<img align=center src="./image/kiwi_strong.svg" width="120"/>
+<img align=center src="https://kiwi233.top/kiwi.gif" width="300" style="border-radous: 6px;"/>
 </p>
 
 <p align="center"> 
