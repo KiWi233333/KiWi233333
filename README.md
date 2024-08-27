@@ -1,7 +1,5 @@
 <p align="center">
-
-![Kiwi233333](https://kiwi233.top/kiwi.gif)
-
+<img align=center src="https://kiwi233.top/kiwi.gif" width="300" style="border-radous: 6px;"/>
 </p>
 
 <!-- <p align="center"> 
