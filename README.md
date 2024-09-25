@@ -29,7 +29,7 @@
   <img src="assets/README/image.png" width="24" height="24" style="border-radius: 4px;" alt="BiliBili" />
 </a>
 
-<!-- 访客统计 -->
+<!-- 访客统计 
 ### 👀 **Visitors statistics：**
 
-  ![:Kiwi233333](https://count.getloli.com/get/@:Kiwi233333?theme=rule34)
+  ![:Kiwi233333](https://count.getloli.com/get/@:Kiwi233333?theme=rule34) -->
