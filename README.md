@@ -36,4 +36,3 @@
 ### 👀 **Visitors statistics：**
 
 ![:Kiwi233333](https://count.getloli.com/get/@:Kiwi233333?theme=rule34)
-![:Kiwi233333](https://count.getloli.com/get/@:Kiwi233333?theme=rule34)
