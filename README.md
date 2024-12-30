@@ -1,5 +1,5 @@
 <p align="center">
-<img align=center src="https://kiwi233.top/kiwi.gif" width="300" style="border-radous: 6px;"/>
+<img align=center src="https://kiwi233.top/kiwi.gif" width="380" height="120" style="border-radous: 6px;"/>
 </p>
 
 ### 🤔 About me
@@ -27,7 +27,9 @@
 
 </p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwi233333&count_private=true&theme=aura&hide=contribs&include_all_commits=true&line_height=24.0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiwi233333&theme=aura&layout=compact&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
+### 🎯 **GitHub Info：**
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwi233333&count_private=true&theme=swift&hide=contribs&include_all_commits=true&line_height=24.0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiwi233333&theme=swift&layout=compact&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📬 **Other platforms：**
 
