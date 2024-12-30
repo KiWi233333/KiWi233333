@@ -27,9 +27,9 @@
 
 </p>
 
-### 🎯 **GitHub Info：**
+<!-- ### 🎯 **GitHub Info：** -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwi233333&count_private=true&theme=swift&hide=contribs&include_all_commits=true&line_height=24.0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiwi233333&theme=swift&layout=compact&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwi233333&count_private=true&theme=swift&hide=contribs&include_all_commits=true&line_height=24.0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiwi233333&theme=swift&layout=compact&card_width=360)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 📬 **Other platforms：**
 
